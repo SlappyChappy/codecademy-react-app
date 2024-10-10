@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/codecademy-react-app/static/css/main.22efe989.css",
+    "main.js": "/codecademy-react-app/static/js/main.e9968710.js",
+    "static/media/locations.jpg": "/codecademy-react-app/static/media/locations.fe86659222482079eef3.jpg",
+    "static/media/services.jpg": "/codecademy-react-app/static/media/services.9398ed8b486cf2e1c576.jpg",
+    "static/media/Background(1).jpg": "/codecademy-react-app/static/media/Background(1).a675f942a4eba6c891b8.jpg",
+    "static/media/img-home.jpeg": "/codecademy-react-app/static/media/img-home.1dabbe24c9b867381d56.jpeg",
+    "static/media/sign up.jpg": "/codecademy-react-app/static/media/sign up.b98045140ae3765c89db.jpg",
+    "index.html": "/codecademy-react-app/index.html",
+    "main.22efe989.css.map": "/codecademy-react-app/static/css/main.22efe989.css.map",
+    "main.e9968710.js.map": "/codecademy-react-app/static/js/main.e9968710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22efe989.css",
+    "static/js/main.e9968710.js"
+  ]
+}
